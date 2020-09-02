@@ -1,9 +1,5 @@
+# Python 
 
----------------------------------------
-Programming Language used :: Python 
-Author :: Anubhav Choudhary 
-Email :: anubhav.choudhary015@gmail.com
----------------------------------------
 
 
 1. Files (inputs,Dependencies)
