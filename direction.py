@@ -2,8 +2,7 @@
 '''------------------------------------
 #Programming Language used :: Python
 #Author :: Anubhav Choudhary
-#Email :: anubhavchoudhary009@gmail.com
-#Website ::https://anubhavchoudhary009.github.io/portfolio.me/
+
 ---------------------------------------'''
 ########################################
 
